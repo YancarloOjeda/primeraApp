@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PrimeraAplicacion</string>
+    <string name="tituloMain">Introducir datos</string>
+    <string name="tituloDetalles">Confirmar datos</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fechaNacimiento">Fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción</string>
+    <string name="botonSiguiente">Siguiente</string>
+    <string name="fecha">Fecha de nacimiento: </string>
+    <string name="tel">Tel. </string>
+    <string name="Email">Email: </string>
+    <string name="Descripcion">Description: </string>
+    <string name="editar">Editar datos</string>
+</resources>

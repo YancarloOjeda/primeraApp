@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="tituloMain">Enter data</string>
+    <string name="tituloDetalles">Confirm data</string>
+    <string name="nombre">Full name</string>
+    <string name="fechaNacimiento">Born Date</string>
+    <string name="telefono">Phone number</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Description</string>
+    <string name="botonSiguiente">Next</string>
+    <string name="fecha">Born date: </string>
+    <string name="tel">Cel. </string>
+    <string name="Email">Email: </string>
+    <string name="Descripcion">Description: </string>
+    <string name="editar">Edit data</string>
+</resources>
